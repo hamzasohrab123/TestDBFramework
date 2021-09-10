@@ -5,6 +5,8 @@
 <test name = "Ecommerce Home">
     <classes>
         <class name="dvdrentaltests.DatabaseTests"/>
+        <class name="dvdrentaltests.CompareActorsTest"/>
+        <class name="dvdrentaltests.CompareTablesTest"/>
     </classes>
 </test>
 
