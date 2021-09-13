@@ -15,7 +15,7 @@ public class DatabaseSetUp {
     public static final String portnumber = "5432";
     public static final String database = "dvdrental";
 
-    // jdbc:postgresql://host:port/database
+    //jdbc:postgresql://host:port/database
     //jdbc:postgresql is the protocol for postgres
     final String url = "jdbc:postgresql://" + hostname + ":" + portnumber + "/" + database;
 
